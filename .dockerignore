@@ -1,0 +1,22 @@
+# Node
+node_modules
+npm-debug.log
+server/node_modules
+client/node_modules
+
+# Build outputs (they'll be re-created inside the build stage)
+client/dist
+server/public
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+.git
+.gitignore
+
+# OS / IDE
+.DS_Store
+.idea
+.vscode
+*.local
