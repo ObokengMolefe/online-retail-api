@@ -1,2 +1,1 @@
-# online-retail-api
-A simple full-stack online retail application with a Node.js/Express backend API and a React (Vite) frontend. Browse products, add them to a cart, and place orders.
+A containerized full-stack e-commerce application with a React frontend, Node.js/Express REST API, and PostgreSQL persistence. Designed as a portfolio piece to demonstrate: multi-stage Docker builds, Docker Compose service orchestration, database containerization with health checks and persistent volumes, 12-factor configuration, and production-grade image hardening.
